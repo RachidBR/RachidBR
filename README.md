@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rachid Bouadi
 
-<!--
-**RachidBR/RachidBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with nearly four years of experience in web development and software design. I specialize in fullstack JavaScript and TypeScript development, building scalable solutions using technologies like React.js, Node.js, and AWS.
 
-Here are some ideas to get you started:
+I’ve contributed to a variety of projects across industries — from healthcare platforms to logistics systems — while emphasizing clean code, accessibility, and best practices in modern software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Frontend:** React.js, Next.js, Remix, Redux, Material UI, HTML/CSS/SCSS
+- **Backend:** Node.js, Express.js, REST APIs, Serverless (AWS Lambda)
+- **Databases:** PostgreSQL, MySQL, MongoDB, Prisma, ElectroDB
+- **Testing & DevOps:** Cypress, Jest, Docker, GitHub Actions
+- **Cloud:** AWS, Microsoft Azure
+- **Tools & Practices:** Git, Jira, Agile (Scrum), Clean Code, BDD, MVC
+
+## 📫 Contact
+
+- 📧 Email: rachid.bouadi68@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/rachid-bouadi](https://www.linkedin.com/in/rachid-bouadi/)
+
+---
+
+Thanks for visiting my profile!
